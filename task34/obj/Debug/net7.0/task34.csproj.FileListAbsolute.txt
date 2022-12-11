@@ -1,0 +1,15 @@
+D:\C_sharp\Homework5\task34\bin\Debug\net7.0\task34.exe
+D:\C_sharp\Homework5\task34\bin\Debug\net7.0\task34.deps.json
+D:\C_sharp\Homework5\task34\bin\Debug\net7.0\task34.runtimeconfig.json
+D:\C_sharp\Homework5\task34\bin\Debug\net7.0\task34.dll
+D:\C_sharp\Homework5\task34\bin\Debug\net7.0\task34.pdb
+D:\C_sharp\Homework5\task34\obj\Debug\net7.0\task34.csproj.AssemblyReference.cache
+D:\C_sharp\Homework5\task34\obj\Debug\net7.0\task34.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sharp\Homework5\task34\obj\Debug\net7.0\task34.AssemblyInfoInputs.cache
+D:\C_sharp\Homework5\task34\obj\Debug\net7.0\task34.AssemblyInfo.cs
+D:\C_sharp\Homework5\task34\obj\Debug\net7.0\task34.csproj.CoreCompileInputs.cache
+D:\C_sharp\Homework5\task34\obj\Debug\net7.0\task34.dll
+D:\C_sharp\Homework5\task34\obj\Debug\net7.0\refint\task34.dll
+D:\C_sharp\Homework5\task34\obj\Debug\net7.0\task34.pdb
+D:\C_sharp\Homework5\task34\obj\Debug\net7.0\task34.genruntimeconfig.cache
+D:\C_sharp\Homework5\task34\obj\Debug\net7.0\ref\task34.dll
